@@ -32,9 +32,9 @@ Following are few of the results produced:
                         
     Results:
     
-    ![img/1_1.png](/relative/path/to/img.jpg?raw=true "n=3")
-    ![img/1_2.png](/relative/path/to/img.jpg?raw=true "n=5")
-    ![img/1_3.png](/relative/path/to/img.jpg?raw=true "n=7")
+    ![n=3](/img/1_1.png?raw=true "n=3")
+    ![n=5](/img/1_2.png?raw=true "n=5")
+    ![n=7](/img/1_3.png?raw=true "n=7")
     
     
 2. A blueberry plant:
@@ -63,9 +63,9 @@ Following are few of the results produced:
                         
     Results:
     
-    ![img/2_1.png](/relative/path/to/img.jpg?raw=true "n=2")
-    ![img/2_2.png](/relative/path/to/img.jpg?raw=true "n=4")
-    ![img/2_3.png](/relative/path/to/img.jpg?raw=true "n=6")
+    ![n=2](/img/2_1.png?raw=true "n=2")
+    ![n=4](/img/2_2.png?raw=true "n=4")
+    ![n=6](/img/2_3.png?raw=true "n=6")
     
 
 3. Dried Grass:
@@ -88,7 +88,7 @@ Following are few of the results produced:
                         
     Results:
     
-    ![img/3_1.png](/relative/path/to/img.jpg?raw=true "n=2")
-    ![img/3_2.png](/relative/path/to/img.jpg?raw=true "n=4")
-    ![img/3_3.png](/relative/path/to/img.jpg?raw=true "n=6")
-    ![img/3_4.png](/relative/path/to/img.jpg?raw=true "n=8")
+    ![n=2](/img/3_1.png?raw=true "n=2")
+    ![n=4](/img/3_2.png?raw=true "n=4")
+    ![n=6](/img/3_3.png?raw=true "n=6")
+    ![n=8](/img/3_4.png?raw=true "n=8")
