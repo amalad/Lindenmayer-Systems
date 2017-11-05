@@ -14,7 +14,7 @@ Following are few of the results produced:
                         F -> FN
                         N -> F
                         L -> [G-G][-G+G]--[G-G][-G+G]++++[G-G][-G+G]--
-                        R -> Y[MP][/MP][\\MP]
+                        R -> Y[MP][/MP][\MP]
                         
     Phenotypes:
     
@@ -28,7 +28,7 @@ Following are few of the results produced:
                         + -> (ROTATE, +22.5)
                         - -> (ROTATE, -22.5)
                         / -> (ROTATE, -36)
-                        \\ -> (ROTATE, 36)
+                        \ -> (ROTATE, 36)
                         
     Results:
     
@@ -45,8 +45,8 @@ Following are few of the results produced:
 
                         S -> B
                         B -> FL[++LBLMR]FL[+BLMR]--FLR[BLMR]++
-                        L -> //[G/G][/G\\G]\\[G/G][/G\\G]\\\\[G/G][/G\\G]\\[G/G][/G\\G]//
-                        R -> Y[MP][//MP][////MMP][\\\\MP][\\\\\\\\MMP]
+                        L -> //[G/G][/G\G]\[G/G][/G\G]\\[G/G][/G\G]\[G/G][/G\G]//
+                        R -> Y[MP][//MP][////MMP][\\MP][\\\\MMP]
                         
     Phenotypes:
 
@@ -58,7 +58,7 @@ Following are few of the results produced:
                         ] -> (RETURN)
                         + -> (ROTATE, +15)
                         - -> (ROTATE, -15)
-                        \\ -> (ROTATE, +22.5)
+                        \ -> (ROTATE, +22.5)
                         / -> (ROTATE, -22.5)
                         
     Results:
