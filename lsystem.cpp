@@ -30,7 +30,6 @@ string GraphicalLSystem::GenerateNext() {
     this->n_generation += 1;
     return this->current_genotype;
 }
-#include "window.h"
 
 string GraphicalLSystem::GetCurrentGenotype() {
     return this->current_genotype;
